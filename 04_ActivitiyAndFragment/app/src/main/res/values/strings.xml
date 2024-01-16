@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivitiyAndFragment</string>
+    <string name="lifecycle_example">LifeCycle example</string>
+    <string name="subactivity">SubActivity</string>
+</resources>
